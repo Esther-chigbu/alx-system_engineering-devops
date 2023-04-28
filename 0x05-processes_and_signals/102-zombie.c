@@ -17,7 +17,7 @@
 int infinite_while(void)
 {
 	while (1)
-[2;2R[>77;30602;0c]10;rgb:bfbf/bfbf/bfbf]11;rgb:0000/0000/0000	{
+	{
 		sleep(1);
 	}
 	return (0);
@@ -50,5 +50,4 @@ int main(void)
 
 	return (EXIT_SUCCESS);
 }
-
 
